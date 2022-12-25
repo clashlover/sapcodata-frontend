@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sapcodata-frontend/static/css/main.dbf0affd.css",
+    "main.js": "/sapcodata-frontend/static/js/main.096e5a75.js",
+    "static/js/787.a6c2e5e8.chunk.js": "/sapcodata-frontend/static/js/787.a6c2e5e8.chunk.js",
+    "index.html": "/sapcodata-frontend/index.html",
+    "main.dbf0affd.css.map": "/sapcodata-frontend/static/css/main.dbf0affd.css.map",
+    "main.096e5a75.js.map": "/sapcodata-frontend/static/js/main.096e5a75.js.map",
+    "787.a6c2e5e8.chunk.js.map": "/sapcodata-frontend/static/js/787.a6c2e5e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf0affd.css",
+    "static/js/main.096e5a75.js"
+  ]
+}
